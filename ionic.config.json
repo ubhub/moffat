@@ -1,0 +1,8 @@
+{
+  "name": "moffat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "95a1a976"
+}
